@@ -29,4 +29,8 @@ and cardinality).
 	- Define PKs, FKs, data types, and constraints.
 	- Include mapping for multivalued or derived attributes if applicable.
 	- Create a linking table for any many-to-many relationships.
-	
+
+-------------------------------------
+
+## ERD Diagram of Hotel Management System
+![ERD Diagram of Hotel Management System](./images/HotelManagementSystem.jpg)
