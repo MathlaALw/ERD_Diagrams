@@ -32,3 +32,9 @@ action_type).
 
 ## ERD Diagram of Banking System
 ![ERD Diagram of Banking System](./images/BankingSystem_ERD.jpg)
+
+--------------------
+
+## Banking System Mapping
+
+![Banking System Mapping](./images/BankingSystemMapping.jpg)
