@@ -13,4 +13,6 @@ differences.**
 - **Each event can have sponsors, promotional materials, and registration deadlines.**
 
 -----------------------
+## ERD Diagram of Event Management System
 
+![ERD Diagram of Event Management System](./images/EventManagementSystem.png)
