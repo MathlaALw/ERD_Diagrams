@@ -34,3 +34,6 @@
 	- Handles courses and conducts exams.
 
 -------------------------------
+## ERD Diagram of College Management System
+
+![ERD Diagram of College Management System](./images/CollegeManagementSystem.jpg)
