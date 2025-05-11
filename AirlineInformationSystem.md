@@ -38,3 +38,8 @@
 	- Each flight can have multiple fares, with:
 		- Code
 		- Amount
+-----------------------------------------------
+
+## ERD Diagram of Airline Information System
+-----------------
+![ERD Diagram of Airline Information System ](./images/AirlineInformationSystem.png)
