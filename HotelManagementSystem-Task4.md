@@ -34,3 +34,9 @@ and cardinality).
 
 ## ERD Diagram of Hotel Management System
 ![ERD Diagram of Hotel Management System](./images/HotelManagementSystem.jpg)
+
+
+-------------------------------------
+## Hotel Management System Mapping
+
+![Hotel Management System Mapping](./images/HotelManagementSystemMapping.jpg)
