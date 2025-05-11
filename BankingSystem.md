@@ -28,4 +28,7 @@ action_type).
 			- 1:N and M:N relationships
 			- Relationship attributes
 		- Indicate any NOT NULL constraints due to total participation. 
-	
+-------------------------
+
+## ERD Diagram of Banking System
+![ERD Diagram of Banking System](./images/BankingSystem_ERD.jpg)
