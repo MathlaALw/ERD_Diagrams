@@ -37,3 +37,9 @@
 ## ERD Diagram of College Management System
 
 ![ERD Diagram of College Management System](./images/CollegeManagementSystem.jpg)
+
+-----------------------------
+
+## College Management System Mapping
+
+![College Management System Mapping](./images/CollageManagmentSystemMapping.jpg)
