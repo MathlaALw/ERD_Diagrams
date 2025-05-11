@@ -1,6 +1,7 @@
 ﻿# Airline Information System 
 
-## An airline system is needed to manage flight operations, schedules, reservations, and related data:
+## Airline Information System Requirements
+### An airline system is needed to manage flight operations, schedules, reservations, and related data:
 
 - **AIRPORT**
 	- Each airport has a unique airport_code.
@@ -43,3 +44,9 @@
 ## ERD Diagram of Airline Information System
 -----------------
 ![ERD Diagram of Airline Information System ](./images/AirlineInformationSystem.png)
+
+-----------------
+
+## Airline Information System Mapping 
+
+![Airline Information System Mapping](./images/AirlineInformationSystemMapping.jpg)
