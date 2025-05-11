@@ -27,4 +27,8 @@
 	- Identified by Name and Number.
 	- Attributes: Location
 	- Employees work on projects, each with logged hours.
-		
+---------------------
+
+## ERD Diagram of Company Database
+
+![ERD Diagram of Company Database](./images/CompanyDatabase.jpg)
