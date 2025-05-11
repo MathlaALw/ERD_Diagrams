@@ -111,3 +111,58 @@
 ## Case3: Airline System – UNF Table
 
 ![## Case3: Airline System – UNF Table](./images/Case3-AirlineSystem.PNG)
+
+
+### 1NF
+#### Booking Table
+|BookingID    | PassengerName |PaymentMethod   |
+|-------------|---------------|----------------|
+|B001         | Salem         | Credit Card    |
+|B002         | Fatma         | PayPal         |
+|B003         | Zayed         | Cridit Card    |
+
+#### Flight Table
+|BookingID     | FlightNumber  | From    | To       |
+|-------------|---------------|-------   |-------   |
+|B001         | F101          | Muscat   | Dubai    |
+|B001         | F102          | Dubai    | London   |
+|B002         | F103          | Muscat   | Istanbul |
+|B003         | F104          | Istanbul | Paris    |
+|B003         | F105          | Paris    | Oslo     |
+
+#### Passenger Table
+|BookingID    | FlightID      | SeatNumbers|
+|-------------|---------------|------------|
+|B001         | F101          | 12A        |
+|B001         | F102          | 14B        |
+|B002         | F103          | 10B        |
+|B003         | F104          | 9A         |
+|B003         | F105          | 13A        |
+
+### 2NF
+#### Booking Table
+|BookingID    | PassengerName |PaymentMethod   |
+|-------------|---------------|----------------|
+|B001         | Salem         | Credit Card    |
+|B002         | Fatma         | PayPal         |
+|B003         | Zayed         | Cridit Card    |
+#### Flight Table
+|FlightID     | FlightNumber  | From     | To       |SeatNumbers|
+|-------------|---------------|-------   |-------   |------------|
+|F101         | F101          | Muscat   | Dubai    | 12A        |
+|F102         | F102          | Dubai    | London   | 14B        |
+|F103         | F103          | Muscat   | Istanbul | 10B        |
+|F104         | F104          | Istanbul | Paris    | 9A         |
+|F105         | F105          | Paris    | Oslo     | 13A        |
+
+### Passenger Table
+|BookingID    | FlightID      | 
+|-------------|---------------|
+|B001         | F101          |
+|B001         | F102          |
+|B002         | F103          |
+|B003         | F104          |
+|B003         | F105          |
+
+
+------------------------------
