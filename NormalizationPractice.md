@@ -53,3 +53,58 @@
 
 
 ------------------------------
+
+
+## Case2: University System – UNF Table 
+
+![## Case2: University System – UNF Table
+](./images/Case2-UniversitySystem.PNG)
+
+
+### 1NF
+
+#### Student Table
+|StudentID    | StudentName   |  Department  |Advisor       |
+|-------------|---------------|--------------|--------------|
+|S001         | Reem          | CS           | Dr. Omar     |
+|S002         | Tariq         | Business     | Dr. Sarah    |
+|S003         | Noura         | CS           | Dr. Omar     |
+
+
+
+#### Course Table
+|CourseCode   | CourseName    |  
+|-------------|---------------|
+|C101         | DB            |
+|C102         | AI            |
+|C103         | Marketing     |
+|C104         | Networking    |
+
+
+### 2NF
+#### Student Table
+|StudentID    | StudentName   |  Department  |Advisor       |
+|-------------|---------------|--------------|--------------|
+|S001         | Reem          | CS           | Dr. Omar     |
+|S002         | Tariq         | Business     | Dr. Sarah    |
+|S003         | Noura         | CS           | Dr. Omar     |
+
+#### Course Table
+|CourseCode   | CourseName    |
+|-------------|---------------|
+|C101         | DB            |
+|C102         | AI            |
+|C103         | Marketing     |
+|C104         | Networking    |
+
+#### Student_Course Table
+|StudentID    | CourseCode    |
+|-------------|---------------|
+|S001         | C101          |
+|S001         | C102          |
+|S002         | C103          |
+|S003         | C101          |
+|S003         | C104          |
+
+
+------------------------------
