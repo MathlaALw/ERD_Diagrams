@@ -57,8 +57,7 @@
 
 ## Case2: University System – UNF Table 
 
-![## Case2: University System – UNF Table
-](./images/Case2-UniversitySystem.PNG)
+![## Case2: University System – UNF Table](./images/Case2-UniversitySystem.PNG)
 
 
 ### 1NF
@@ -108,3 +107,7 @@
 
 
 ------------------------------
+
+## Case3: Airline System – UNF Table
+
+![## Case3: Airline System – UNF Table](./images/Case3-AirlineSystem.PNG)
