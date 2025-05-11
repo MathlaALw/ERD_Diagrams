@@ -32,3 +32,9 @@
 ## ERD Diagram of Company Database
 
 ![ERD Diagram of Company Database](./images/CompanyDatabase.jpg)
+
+---------------------
+
+## Company Database Mapping
+
+![Company Database Mapping](./images/CompanyDatabaseMapping.jpg)
