@@ -14,3 +14,6 @@ condition).**
 
 ---------------------------
 
+## ERD Diagram of Online Course Platform
+
+![ERD Diagram of Online Course Platform](./images/OnlineCoursePlatform.png)
