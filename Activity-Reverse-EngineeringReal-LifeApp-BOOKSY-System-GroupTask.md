@@ -9,3 +9,8 @@
 ### Booksy Analysis
 
 [Booksy Analysis](./PDF/Booksy_Analysis.pdf)
+
+
+### Booksy ERD and Mapping
+
+![Booksy ERD and Mapping](./images/BooksyErdMapping.png)
