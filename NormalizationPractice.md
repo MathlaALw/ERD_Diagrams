@@ -11,17 +11,6 @@
 
 ### 1NF 
 #### Employee Table
-
-|EmployeeID   | EmployeeName  |  Department |ProjectCode  |ProjectName      |Manager       |
-|-------------|---------------|-------------|-------------|-----------------|--------------|
-|E001         | Ahmed         | IT          | P101        | Website         | Eng. Khalid  |
-|E001         | Ahmed         | IT          | P102        | MobileApp       | Eng. Khalid  |
-|E002         | Salim         | HR          | P103        | Recruitment     | Ms. Amal     |
-|E003         | Aisha         | IT          | P102        | Mobile App      | Eng. Khalid  |
-|E003         | Aisha         | IT          | P104        | Database Upgrade| Eng. Khalid  |
-
-### 2NF
-#### Employee Table
 |EmployeeID   | EmployeeName  |  Department | Manager       |
 |-------------|---------------|-------------|-------------- |
 |E001         | Ahmed         | IT          | Eng. Khalid   |
@@ -36,7 +25,7 @@
 |P102         | Mobile App      | E003        |
 |P104         | Database Upgrade| E003        |
 
-### 3NF
+### 2NF
 #### Employee Table
 |EmployeeID   | EmployeeName  |  Department | Manager       |
 |-------------|---------------|-------------|-------------- |
@@ -64,5 +53,3 @@
 
 
 ------------------------------
-
-
